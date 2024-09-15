@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news name="ModNews">
+	<entry>
+		<date>2024-09-14 12:00:00Z</date>
+		<title>Features Added</title>
+	     	<title2>PVP Server</title2> 
+		<text>Donor traders, Market and /shop are [FF0000]back![-]</text>
+		<link></link> 
+		<imagerelpath></imagerelpath> 
+	</entry>
+	 <entry> 
+		<date>2024-09-05 12:00:00Z</date> 
+	 	<title>New Server to Vote For</title>
+	     	<title2>ARK ASA PVP Cluster</title2> 
+		<text>A new server was added for you to vote for and collect rewards. Click here to see them all!</text> 
+		<link>https://vote4sz.com/</link> 
+		<imagerelpath></imagerelpath> 
+	 </entry> 
+</news>
