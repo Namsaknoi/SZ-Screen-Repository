@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <news name="ModNews">
 	<entry>
-		<date>2024-09-14 12:00:00Z</date>
+		<date>2024-10-04 17:00:10Z</date>
 		<title>Features Added</title>
 	     	<title2>PVP Server</title2> 
-		<text>Donor traders, Market and /shop are [FF0000]back![-]</text>
+		<text>Dynamic drop is back. LCB limit reduced to 1. Sniper headshop bonus excluded from PvP. Check discord for more info.</text>
+		<link></link> 
+		<imagerelpath></imagerelpath> 
+	</entry>
+	<entry>
+		<date>2024-10-04 17:00:00Z</date>
+		<title>Soon...</title>
+	     	<title2>PVP Server</title2> 
+		<text>Donor traders, Market and /shop will be enabled on [FF0000]October 11th[-].</text>
 		<link></link> 
 		<imagerelpath></imagerelpath> 
 	</entry>
